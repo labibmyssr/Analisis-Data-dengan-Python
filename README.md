@@ -7,4 +7,4 @@ conda activate main-ds
 pip install pandas matplotlib seaborn streamlit
 ```
 ## Run streamlit app
-`streamlit run dashboard\dashboard.py`
+```streamlit run dashboard\dashboard.py```
