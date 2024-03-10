@@ -61,7 +61,7 @@ with tab1:
     st.pyplot(fig)
 
 with tab2:
-    st.subheader("Total Harga Item berdasarkan Negara Penjual")
+    st.subheader("Total Keuntungan berdasarkan Negara Penjual")
 
     fig, ax = plt.subplots(1, 2, figsize=(15, 6))
     colors1 = ["#72BCD4", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]
