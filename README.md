@@ -4,7 +4,7 @@
 ```
 conda create --name main-ds python=3.11.4
 conda activate main-ds
-pip install pandas matplotlib seaborn streamlit
+pip install pandas matplotlib seaborn streamlit numpy
 ```
 ## Run streamlit app
 ```
